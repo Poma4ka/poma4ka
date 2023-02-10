@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Roman! 👋</h1>
 <p align="center">Website frontend developer. Maybe a little backend. </p>
 
-<h2 align="center">My skills</h2>
+<h2>My skills</h2>
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,redux,html,scss,vite,nestjs" />
@@ -21,7 +21,7 @@
 
 [FaithNode](https://faithnode.host) - Game hosting with a custom user-friendly control panel.
 
-[Pterodactyl](https://github.com/faithnode/pterodactyl-images) - Custom docker images for [pterodactyl](https://pterodactyl.io/) panel.
+[Docker images](https://github.com/faithnode/pterodactyl-images) - Custom docker images for [pterodactyl](https://pterodactyl.io/) panel to using on [FaithNode](https://faithnode.host).
 
 [FaithPay](https://faithpay.ru) - (Deprecated) Payment acceptance service.
 
