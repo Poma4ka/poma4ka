@@ -15,6 +15,16 @@
   </a>
 </p>
   
+<h2>My stats</h2>
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=zloy-roma&show_icons=true&&hide=issues&theme=transparent&hide_rank=true&custom_title=Stats&hide_border=true" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zloy-roma&layout=compact&count_private=true&hide_border=true&theme=transparent&hide=handlebars,php&langs_count=6&custom_title=Languages" />
+  </a>
+</p>
+
 <h2>My projects</h2>
 
 [FaithCraft](https://faithcraft.su) - Modern game server in Minecraft game.
