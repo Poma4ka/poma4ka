@@ -15,7 +15,7 @@
   </a>
 </p>
   
-<h2 align="center">My projects</h2>
+<h2>My projects</h2>
 
 [FaithCraft](https://faithcraft.su) - Modern game server in Minecraft game.
 
