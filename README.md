@@ -27,9 +27,9 @@
 
 <h2>My projects</h2>
 
-[FaithCraft](https://faithcraft.su) - Modern game server in Minecraft game.
+[FaithCraft](https://github.com/faithcraft-mc) - Modern game server in Minecraft game.
 
-[FaithNode](https://faithnode.host) - Game hosting with a custom user-friendly control panel.
+[FaithNode](https://github.com/faithnode) - Game hosting with a custom user-friendly control panel.
 
 [Docker images](https://github.com/faithnode/pterodactyl-images) - Custom docker images for [pterodactyl](https://pterodactyl.io/) panel to using on [FaithNode](https://faithnode.host).
 
