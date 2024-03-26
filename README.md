@@ -3,16 +3,16 @@
 
 <h2>My skills</h2>
 <p align="center">
-  <p>
+  <p align="center">
     <img src="https://skillicons.dev/icons?i=ts,nodejs,bun" />
     <img src="https://skillicons.dev/icons?i=golang,java,gradle" />
   </p>
-  <p>
+  <p align="center">
     <img src="https://skillicons.dev/icons?i=nestjs,react,nextjs" />
      <img src="https://skillicons.dev/icons?i=vite,redux,html" />
      <img src="https://skillicons.dev/icons?i=sass" />
   </p>
-  <p>
+  <p align="center">
     <img src="https://skillicons.dev/icons?i=git,mysql,postgresql" />
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,bash" />
     <img src="https://skillicons.dev/icons?i=redis,nginx" />
