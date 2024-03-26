@@ -4,21 +4,33 @@
 <h2>My skills</h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,bun,golang,java,gradle" />
-    <img src="https://skillicons.dev/icons?i=nestjs,react,nextjs,vite,redux,html,sass" />
-    <img src="https://skillicons.dev/icons?i=git,mysql,postgresql,docker,kubernetes,redis,bash,nginx" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,bun" />
+    <img src="https://skillicons.dev/icons?i=golang,java,gradle" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nestjs,react,nextjs" />
+     <img src="https://skillicons.dev/icons?i=vite,redux,html" />
+     <img src="https://skillicons.dev/icons?i=sass" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,bash" />
+    <img src="https://skillicons.dev/icons?i=redis,nginx" />
   </a>
 </p>  
 <h3 align="center">I use for development</h3> 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,figma,notion,discord,webstorm,postman,linux,gitlab,github" />
+    <img src="https://skillicons.dev/icons?i=git,figma,notion" />
+    <img src="https://skillicons.dev/icons?i=discord,webstorm,postman" />
+    <img src="https://skillicons.dev/icons?i=linux,gitlab,github" />
   </a>
 </p>
 <h3 align="center">I hate</h3> 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,vscode,nextjs,github" />
+    <img src="https://skillicons.dev/icons?i=tailwind,vscode,nextjs" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
   
