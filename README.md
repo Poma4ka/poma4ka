@@ -1,17 +1,24 @@
 <h1 align="center">Hi there, I'm Roman! 👋</h1>
-<p align="center">Website frontend developer. Maybe a little backend. </p>
+<p align="center">Backend developer. Maybe a little frontend </p>
 
 <h2>My skills</h2>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,redux,html,scss,vite,nestjs" />
-    <img src="https://skillicons.dev/icons?i=git,docker,mysql,postgresql,mongodb,redis,linux,bash,nginx" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,bun,golang,java,gradle" />
+    <img src="https://skillicons.dev/icons?i=nestjs,react,nextjs,vite,redux,html,sass" />
+    <img src="https://skillicons.dev/icons?i=git,mysql,postgresql,docker,kubernetes,redis,bash,nginx" />
   </a>
 </p>  
-<h3 align="center">I use at my work</h3> 
+<h3 align="center">I use for development</h3> 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=github,figma,stackoverflow,cloudflare,discord,idea,xd,postman,bash" />
+    <img src="https://skillicons.dev/icons?i=git,figma,notion,discord,webstorm,postman,linux,gitlab,github" />
+  </a>
+</p>
+<h3 align="center">I hate</h3> 
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,vscode,nextjs,github" />
   </a>
 </p>
   
