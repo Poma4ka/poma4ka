@@ -4,44 +4,40 @@
 <h2>My skills</h2>
 <p align="center">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,bun" />
-    <img src="https://skillicons.dev/icons?i=golang,java,gradle" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,bun,golang" />
+    <img src="https://skillicons.dev/icons?i=java,gradle" />
   </p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=nestjs,react,nextjs" />
-     <img src="https://skillicons.dev/icons?i=vite,redux,html" />
-     <img src="https://skillicons.dev/icons?i=sass" />
+    <img src="https://skillicons.dev/icons?i=nestjs,react,nextjs,vite" />
+    <img src="https://skillicons.dev/icons?i=redux,html,sass" />
   </p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,mysql,postgresql" />
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,bash" />
-    <img src="https://skillicons.dev/icons?i=redis,nginx" />
+    <img src="https://skillicons.dev/icons?i=git,mysql,postgresql,redis" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,bash,nginx" />
   </p>
 </p>  
 <h3 align="center">I use for development</h3> 
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,figma,notion" />
-    <img src="https://skillicons.dev/icons?i=discord,webstorm,postman" />
-    <img src="https://skillicons.dev/icons?i=linux,gitlab,github" />
-  </a>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=webstorm,postman,linux,figma" />
+    <img src="https://skillicons.dev/icons?i=notion,discord,gitlab,github" />
+  </p>
 </p>
 <h3 align="center">I hate</h3> 
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=tailwind,vscode,nextjs" />
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=tailwind,vscode,nextjs,github" />
+  </p>
 </p>
   
 <h2>My stats</h2>
 <p align="center">
-  <a href="#">
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=zloy-roma&show_icons=true&&hide=issues&theme=transparent&hide_rank=true&custom_title=Stats&hide_border=true&count_private=true&line_height=24" />
-  </a>
-  <a href="#">
+  </p>
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zloy-roma&layout=compact&count_private=true&hide_border=true&theme=transparent&hide=handlebars,php&langs_count=6&custom_title=Languages" />
-  </a>
+  </p>
 </p>
 
 <h2>My projects</h2>
