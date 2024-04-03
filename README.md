@@ -33,10 +33,10 @@
 <h2>My stats</h2>
 <p align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zloy-roma&show_icons=true&&hide=issues&theme=transparent&hide_rank=true&custom_title=Stats&hide_border=true&count_private=true&line_height=24" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Poma4ka&show_icons=true&&hide=issues&theme=transparent&hide_rank=true&custom_title=Stats&hide_border=true&count_private=true&line_height=24" />
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zloy-roma&layout=compact&count_private=true&hide_border=true&theme=transparent&hide=handlebars,php&langs_count=6&custom_title=Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poma4ka&layout=compact&count_private=true&hide_border=true&theme=transparent&hide=handlebars,php&langs_count=6&custom_title=Languages" />
   </p>
 </p>
 
